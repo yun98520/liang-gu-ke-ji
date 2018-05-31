@@ -1,0 +1,306 @@
+@charset "utf-8";
+/* CSS Document */
+/* header */
+.header{
+	height: 40px;
+	background: url('../images/量谷科技_header.png') left center no-repeat;
+}
+.head{
+	height: 40px;
+	line-height: 40px;
+}
+.head img{
+	padding-right: 14px;
+}
+.head a{
+	color: #FFFFFF;
+	float: right;
+	font-size: 12px;
+	height: 30px;
+	width: 173px;
+	padding-left: 6px;
+	background: url('../images/量谷科技_serach.png') right center no-repeat;
+	border-bottom: 2px solid #FFB243;
+}
+/* nav导航 */
+.nav{
+	height: 100px;
+	line-height: 100px;
+}
+.nav h1{
+	float: left;
+	margin-right: 85px;
+}
+.nav ul{
+	margin-top: -3px;
+	float: left;
+}
+.nav li{
+	float: left;
+	text-align: center;
+	padding: 0 20px;
+}
+.nav li a{
+	color: #000000;
+	font-size: 16px;
+}
+.nav .act a{
+	color: #FFFFFF;
+}
+.nav .act{
+	background: url('../images/量谷科技_hover.png') left center no-repeat;
+}
+.nav li:hover,.nav li a:hover{
+	color: #FFFFFF;
+	background: url('../images/量谷科技_hover.png') left center no-repeat;
+}
+.banner img{
+	 margin-top: -1px;
+	 width: 100%;
+}
+.content1{
+	height: 300px;
+	background-color: #F6F6F6;
+}
+.content1 img{
+	margin-top: -32px;
+	padding-right:25px;
+}
+.content1 .img1{
+	padding-right: 0;
+}
+.content1 .ewm{
+	float: right;
+	margin-top: -200px;
+}
+/* content2 */
+.content2{
+	height: 438px;
+}
+.content2 .top{
+	height: 76px;
+	line-height: 76px;
+	background: url('../images/量谷科技_虚线.png') right center no-repeat;
+}
+.content2 h2{
+	color: #2361AD;
+	font-size: 20px;
+	line-height: 76px;
+}
+.content2 span{
+	color: #999999;
+	padding-left: 26px;
+}
+.content2 ul>li>a{
+	width: 18px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.content2 .li1{
+	width: 805px;
+}
+.content2 .li1>a{
+	float: left;
+	width: 19px;
+	height: 241px;
+	padding-top: 93px;
+	padding-left:21px;
+	padding-right: 25px;
+	background-color: #00007F;
+}
+.content2 .li2>a{
+	float: left;
+	width: 19px;
+	height: 241px;
+	padding-top: 93px;
+	padding-left:21px;
+	padding-right: 25px;
+	background-color: #EE8800;
+}
+.content2 .li3>a{
+	float: left;
+	width: 19px;
+	height: 241px;
+	padding-top: 93px;
+	padding-left:21px;
+	padding-right: 25px;
+	background-color: #7F7F00;
+}
+.content2 .li4>a{
+	float: left;
+	width: 19px;
+	height: 241px;
+	padding-top: 93px;
+	padding-left:21px;
+	padding-right: 25px;
+	background-color: #2361AD;
+}
+.content2 .hover{
+	width: 728px;
+}
+.content2 ol{
+	width:320px;
+}
+.content2 ol li{
+	color: #272727;
+	font-size: 12px;
+	line-height: 28px;
+	width: 400px;
+	text-align: right;
+	padding-left: 21px;
+	background: url('../images/量谷科技_square.png') 15px center no-repeat ;
+}
+.content2 ol li a{
+	color: #272727;
+	font-size: 12px;
+	float: left;
+}
+.content2 ol li span{
+	color:  #272727;
+}
+/* content3 */
+.content3{
+	height: 414px;
+	background-color:#F9F9F9 ;
+}
+.content3 .top{
+	height: 76px;
+	line-height: 76px;
+	background: url('../images/量谷科技_虚线.png') right center no-repeat;
+}
+.content3 h2{
+	color: #2361AD;
+	font-size: 20px;
+	line-height: 76px;
+}
+.content3 .top em{
+	padding-left: 26px;
+	color: #999999;
+	font-style: normal;
+}
+.content3 .con_1 li{
+	width: 468px;
+	height: 82px;
+	margin-top: 25px;
+	border-bottom: 1px dashed #777777;
+}
+.content3 .con_1 li span{
+	color: #777777;
+	font-size: 14px;
+}
+.content3 .con_1 li .span1{
+	color: #2361AD;
+}
+.content3 .con_1 li p{
+	font-size: 12px;
+	color: #777777;
+	margin-top: 15px;
+	line-height: 22px;
+}
+.content3 .con_1 img{
+	padding-left:24px ;
+	padding-right: 25px;
+}
+/* content4 */
+.content4{
+	height: 165px;
+}
+.content4 .top{
+	height: 76px;
+	line-height: 76px;
+	background: url('../images/量谷科技_虚线.png') right center no-repeat;
+}
+.content4 h2{
+	color: #2361AD;
+	font-size: 20px;
+	line-height: 76px;
+}
+.content4 span{
+	padding-left: 26px;
+	color: #999999;
+}
+.content4 img{
+	margin-right: 57px;
+}
+.content4 img .img1{
+	margin-right: 0;
+}
+/* .content5 */
+.content5{
+	height: 223px;
+	background: url('../images/量谷科技_back.png') left center no-repeat ;
+}
+.content5 .cont5 .ul1{
+	width: 80px;
+	float: left;
+	padding-right: 115px;
+}
+.content5 .cont5 .ul2{
+	width: 95px;
+	float: left;
+	padding-right: 136px;
+}
+.content5 .cont5 .ul3{
+	width: 92px;
+	float: left;
+	padding-right: 124px;
+}
+.content5 .cont5 .ul4{
+	width: 246px;
+	float: left;
+}
+.content5 .cont5 li{
+	float: left;
+	line-height: 30px;
+}
+.content5 .li1{
+	font-size: 18px;
+	color: #000000;
+	margin-top: 5px;
+	font-family: 微软雅黑;
+}
+.content5 li a{
+	color: #000000;
+	font-size: 12px;
+}
+.content5 .li2{
+	padding-left: 20px;
+	background: url('../images/量谷科技_电话.png')left center no-repeat;
+}
+.content5 .li3{
+	padding-left: 20px;
+	background: url('../images/量谷科技_微信1.gif')left center no-repeat;
+}
+.content5 .li4{
+	padding-left: 20px;
+	background: url('../images/量谷科技_email.png')left center no-repeat;
+}
+.content5 p{
+	padding-bottom: 42px;
+}
+.content5 p span{
+	color: #000000;
+	font-size: 18px;
+	font-family: 微软雅黑;
+}
+.content5 p a{
+	color: #000000;
+	font-size: 12px;
+	padding-right: 14px;
+}
+/* footer */
+.footer{
+	height: 65px;
+	background: url('../images/量谷科技_footer.png') left center no-repeat;
+}
+.footer p{
+	color: #9F9F9F;
+	height: 65px;
+	line-height: 65px;
+	font-size: 12px;
+	text-align: center;
+}
+.footer p span{
+	padding-left: 36px;
+	padding-right: 31px;
+}
